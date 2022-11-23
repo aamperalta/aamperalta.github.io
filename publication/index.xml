@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Abigail Peralta</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Does Subsidized Flood Insurance Alter Location Incentives? Evidence from the National Flood Insurance Program</title>
+      <link>/publication/floods/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/floods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electoral Cycles in Politician Effort</title>
+      <link>/publication/effort/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/effort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Fiscal Transfers on Local Economic Development</title>
+      <link>/publication/towns/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/towns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Election Fraud on Government Performance</title>
+      <link>/publication/fraud/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/fraud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxes and the Labor Supply of the Stars</title>
+      <link>/publication/movies/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic WARNings: The Impact of Negative Economic News on Racial Animus</title>
+      <link>/publication/warn/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/warn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Dissonance in the Use of Scientific Estimates: Evidence from COVID-19 and Implications for Climate Policy </title>
+      <link>/publication/covid/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Test of Anti-Muslim Bias: Evidence from Property Values</title>
+      <link>/publication/mosques/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mosques/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
