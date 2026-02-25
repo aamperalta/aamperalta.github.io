@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan B. Scott | Abigail Peralta</title>
+    <link>/author/jonathan-b.-scott/</link>
+      <atom:link href="/author/jonathan-b.-scott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan B. Scott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Jonathan B. Scott</title>
+      <link>/author/jonathan-b.-scott/</link>
+    </image>
+    
+    <item>
+      <title>Does the National Flood Insurance Program Drive Migration to Higher Risk Areas?</title>
+      <link>/publication/floods/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/floods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Dissonance in the Use of Scientific Estimates: Evidence from COVID-19 and Implications for Climate Policy </title>
+      <link>/publication/covid/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/covid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

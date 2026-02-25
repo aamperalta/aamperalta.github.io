@@ -5,7 +5,7 @@
     <link>/tag/source-themes/</link>
       <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>WARNings – The impact of negative economic news on racial animus</title>
+      <link>/publication/warn/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/warn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Does the National Flood Insurance Program Drive Migration to Higher Risk Areas?</title>
       <link>/publication/floods/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       <guid>/publication/floods/</guid>
       <description></description>
     </item>
@@ -49,14 +57,6 @@
       <link>/publication/movies/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/publication/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economic WARNings: The Impact of Negative Economic News on Racial Animus</title>
-      <link>/publication/warn/</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/warn/</guid>
       <description></description>
     </item>
     
